@@ -2,8 +2,9 @@
   "name": "foodside",
   "version": "1.0.0",
   "main": "index.js",
+  "homepage": "http://Miroclav.github.io/Food-dist",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d dist"
   },
   "author": "",
   "license": "ISC",
